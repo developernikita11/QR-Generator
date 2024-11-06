@@ -53,4 +53,9 @@
     padding: 8px;
     margin-bottom: 16px;
   }
+
+  .qr-code {
+    display: block;
+    margin: 0 auto;
+  }
   
