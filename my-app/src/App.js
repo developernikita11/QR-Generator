@@ -1,10 +1,8 @@
-
+import QRCode from "./qrCode";
 
 function App() {
   return (
-    <div className="App">
-      
-    </div>
+    <QRCode/>
   );
 }
 
